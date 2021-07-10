@@ -5,4 +5,4 @@ En este repositorio van a estar disponible slos contenidos que vamos viendo en e
 
 No olvides dejar tu me gusta y subscribirte al canal!
 
-##https://www.youtube.com/channel/UCkvSezi_0LKFwbPtFDA1UzQ
+https://www.youtube.com/channel/UCkvSezi_0LKFwbPtFDA1UzQ
