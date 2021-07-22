@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "SwQFSELGY/8C+fj0XjxOOYbPiwOx0bR8VFNUEJjnYLNAjDxFEjK97tJoClx0/hCQ0ISSKUd+G/LVF9OLAWL7Hw==",
+  "dgSpecHash": "ZrygN0l5wG3NG80t/F4UZP48YnrMsB2o5cIFfJ7mMRH7cUD8Q5VD+gaooDi26YN1YagzJ+StlZLGr6KOh8nejQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kernel\\Documents\\GitHub\\hk_dotnet_basics\\VideoFluentValidation\\VideoFluentValidation\\VideoFluentValidation.csproj",
+  "projectFilePath": "C:\\Users\\Kernel\\Documents\\GitHub\\hk_dotnet_basics\\Validando contratos en .Net C# con FluentValidation\\VideoFluentValidation\\VideoFluentValidation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kernel\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Kernel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Kernel\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
+    "C:\\Users\\Kernel\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.0\\fluentvalidation.aspnetcore.10.3.0.nupkg.sha512",
+    "C:\\Users\\Kernel\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.0\\fluentvalidation.dependencyinjectionextensions.10.3.0.nupkg.sha512",
     "C:\\Users\\Kernel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Kernel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Kernel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kernel\\Documents\\GitHub\\hk_dotnet_basics\\VideoFluentValidation\\VideoFluentValidation\\VideoFluentValidation.csproj": {}
+    "C:\\Users\\Kernel\\Documents\\GitHub\\hk_dotnet_basics\\Validando contratos en .Net C# con FluentValidation\\VideoFluentValidation\\VideoFluentValidation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kernel\\Documents\\GitHub\\hk_dotnet_basics\\VideoFluentValidation\\VideoFluentValidation\\VideoFluentValidation.csproj": {
+    "C:\\Users\\Kernel\\Documents\\GitHub\\hk_dotnet_basics\\Validando contratos en .Net C# con FluentValidation\\VideoFluentValidation\\VideoFluentValidation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kernel\\Documents\\GitHub\\hk_dotnet_basics\\VideoFluentValidation\\VideoFluentValidation\\VideoFluentValidation.csproj",
+        "projectUniqueName": "C:\\Users\\Kernel\\Documents\\GitHub\\hk_dotnet_basics\\Validando contratos en .Net C# con FluentValidation\\VideoFluentValidation\\VideoFluentValidation.csproj",
         "projectName": "VideoFluentValidation",
-        "projectPath": "C:\\Users\\Kernel\\Documents\\GitHub\\hk_dotnet_basics\\VideoFluentValidation\\VideoFluentValidation\\VideoFluentValidation.csproj",
+        "projectPath": "C:\\Users\\Kernel\\Documents\\GitHub\\hk_dotnet_basics\\Validando contratos en .Net C# con FluentValidation\\VideoFluentValidation\\VideoFluentValidation.csproj",
         "packagesPath": "C:\\Users\\Kernel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kernel\\Documents\\GitHub\\hk_dotnet_basics\\VideoFluentValidation\\VideoFluentValidation\\obj\\",
+        "outputPath": "C:\\Users\\Kernel\\Documents\\GitHub\\hk_dotnet_basics\\Validando contratos en .Net C# con FluentValidation\\VideoFluentValidation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kernel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,6 +48,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.1.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
