@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoFluentValidation", "VideoFluentValidation\VideoFluentValidation.csproj", "{B23E1FC9-3D6D-4F86-8C8A-957431D502CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B23E1FC9-3D6D-4F86-8C8A-957431D502CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23E1FC9-3D6D-4F86-8C8A-957431D502CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23E1FC9-3D6D-4F86-8C8A-957431D502CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23E1FC9-3D6D-4F86-8C8A-957431D502CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
