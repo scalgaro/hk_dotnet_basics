@@ -29,3 +29,37 @@ C:\Users\Kernel\RiderProjects\VideoFluentValidation\VideoFluentValidation\obj\De
 C:\Users\Kernel\RiderProjects\VideoFluentValidation\VideoFluentValidation\obj\Debug\net5.0\ref\VideoFluentValidation.dll
 C:\Users\Kernel\RiderProjects\VideoFluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.pdb
 C:\Users\Kernel\RiderProjects\VideoFluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.genruntimeconfig.cache
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\appsettings.json
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\VideoFluentValidation.exe
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\VideoFluentValidation.deps.json
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\VideoFluentValidation.runtimeconfig.json
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\VideoFluentValidation.runtimeconfig.dev.json
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\VideoFluentValidation.dll
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\ref\VideoFluentValidation.dll
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\VideoFluentValidation.pdb
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.csproj.AssemblyReference.cache
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.AssemblyInfoInputs.cache
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.AssemblyInfo.cs
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.csproj.CoreCompileInputs.cache
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\staticwebassets\VideoFluentValidation.StaticWebAssets.Manifest.cache
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\staticwebassets\VideoFluentValidation.StaticWebAssets.xml
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\scopedcss\bundle\VideoFluentValidation.styles.css
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.RazorTargetAssemblyInfo.cache
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.csproj.CopyComplete
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.dll
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\ref\VideoFluentValidation.dll
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.pdb
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\obj\Debug\net5.0\VideoFluentValidation.genruntimeconfig.cache
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Kernel\Documents\GitHub\hk_dotnet_basics\Validando contratos en .Net C# con FluentValidation\VideoFluentValidation\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll

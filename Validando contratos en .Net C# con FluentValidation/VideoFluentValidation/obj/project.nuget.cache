@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZrygN0l5wG3NG80t/F4UZP48YnrMsB2o5cIFfJ7mMRH7cUD8Q5VD+gaooDi26YN1YagzJ+StlZLGr6KOh8nejQ==",
+  "dgSpecHash": "+mAU6k/dtTQ5QX4ACesbFzIoiu0GPoVu6iYqMviJRmNiAA3PhjsXp0QiAdgDvaHJeSw9a/52YTk7jZEv9yb/UA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kernel\\Documents\\GitHub\\hk_dotnet_basics\\Validando contratos en .Net C# con FluentValidation\\VideoFluentValidation\\VideoFluentValidation.csproj",
   "expectedPackageFiles": [

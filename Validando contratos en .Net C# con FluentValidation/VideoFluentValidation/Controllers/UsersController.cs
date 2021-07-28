@@ -26,7 +26,7 @@ namespace VideoFluentValidation.Controllers
 
             var user = _usersService.Create(domainEntity);
             
-            return Ok(_mapper.Map<UserContract>(user));
+            return Created($"api/v1/users/{user.Id}", _mapper.Map<UserContract>(user));
         }
     }
 }
